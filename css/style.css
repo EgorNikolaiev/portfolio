@@ -149,12 +149,12 @@ body {
   transition: background-color .3s;
 }
 
-.works__item:hover {
-  background-color: #ffffff69;
-}
-
 .works__item:hover .works__image img {
   transform: scale(1.05);
+}
+
+.works__item:hover .works__name {
+  text-decoration: underline;
 }
 
 .works__image {
