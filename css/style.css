@@ -140,6 +140,7 @@ body {
 .works__container {
   display: grid;
   gap: 20px;
+  padding-bottom: 15px;
 }
 
 .works__item {
