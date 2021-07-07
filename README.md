@@ -1,1 +1,1 @@
-https://mrgo336.github.io/portfolio/
+https://EgorNikolaiev.github.io/portfolio/
